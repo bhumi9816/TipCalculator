@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/s5OcWJ5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Quick-Time Recorder, ezgif: to convert the video to gif and hackmd.io: to upload the url to GitHub].
 
 ## Notes
 
